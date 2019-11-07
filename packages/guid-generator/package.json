@@ -1,0 +1,10 @@
+{
+  "name": "@akshaybheda/guidgenerator",
+  "version": "1.0.1",
+  "description": "Generate GUID",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "GUID"
+  ]
+}
